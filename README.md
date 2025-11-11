@@ -15,7 +15,7 @@ This is the starter code used in Boot.dev's [Learn HTTP Servers in Go](https://w
 
 ## Installation
 
-1. Clone the Repository
+1. Clone the repository.
 
 2. Install dependencies:
 ```bash
